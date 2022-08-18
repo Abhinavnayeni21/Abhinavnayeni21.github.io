@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: linear-gradient(#a79090, rgb(0, 0, 0));
+  margin: 0;
+}
+
+div {
+  text-align: center;
+  /* padding-bottom: 20vh; */
+}
+h1 {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 5vw;
+}
+canvas {
+  background-color: white;
+}
